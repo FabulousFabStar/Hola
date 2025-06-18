@@ -532,11 +532,11 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ### 2.3.5. As-is Scenario Mapping.
 
-![Escenario As-Is de Angel](./assets/miro1.jpg)
+![miro1](https://github.com/user-attachments/assets/a04ce1ef-a0a2-46fb-a87b-5be493cdffdd)
 
 ### Escenario As-Is: Carla buscando clientes sin plataforma especializada
 
-![Escenario As-Is de Carla](./assets/miro2.jpg)
+![miro2](https://github.com/user-attachments/assets/2be47caf-e6bd-4b44-977d-500e407abe98)
 
 </div>
 
@@ -671,14 +671,14 @@ MascotaMatch es una plataforma que conecta a dueños de mascotas con profesional
 
 <div align="center">
 
-![logo](./assets/un.png)
+![un](https://github.com/user-attachments/assets/fcf7c5d1-fb5f-45c5-af56-c97daebf8c17)
 </div>
 
 ### Typography:
 Se utiliza la tipografía "Nunito", una fuente redondeada, amigable y altamente legible. Su estructura moderna y fluida se adapta perfectamente a textos largos, botones y encabezados. Además, brinda una experiencia visual cómoda y cercana, ideal para transmitir confianza y afecto. En algunos casos, se combina con "Inter" para contenidos secundarios o informativos.
 <div align="center">
   
-![typography](./assets/dos.png)
+![dos](https://github.com/user-attachments/assets/3771b23a-7147-4f8d-9ced-bbc1ba4eddfb)
 </div>
 
 ### Colors:
@@ -689,18 +689,14 @@ Para nuestra versión de  landing page hemos utilizado un fondo azul degradado q
 
 #34D399 – Verde Menta: botones y llamados a la acción
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color1.png)
-
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color2.png)
+![Color](https://github.com/user-attachments/assets/ac10a49d-f6b6-411f-b670-19a872fe4918)
 
 ### Fondo:
 #FFFFFF – Blanco: áreas de contenido y tarjetas.
 
 #F3F4F6 – Gris muy claro: fondo alternativo y separación sutil.
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color2%20(2).png)
-
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color1%20(2).png)
+![Color 2](https://github.com/user-attachments/assets/a41e13c1-7fed-4bfb-af5e-a9fa9fc05799)
 
 ### Detalles:
 #111827 – Gris oscuro: texto principal y títulos.
@@ -709,11 +705,7 @@ Para nuestra versión de  landing page hemos utilizado un fondo azul degradado q
 
 #2563EB – Azul secundario para navegación y resaltes.
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color1.png)
-
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color1%20(2).png)
-
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color%203.jpg)
+![Color 3](https://github.com/user-attachments/assets/e988a5d9-6656-416e-a05f-21bcd3039315)
 
 ### Tone of Communication:
 El tono de MascotaMatch es positivo, empático y claro, adaptándose según la sección:
@@ -731,7 +723,7 @@ Tranquilizador y profesional en servicios como urgencias veterinarias.
 La web de MascotaMatch está enfocada en ser una entrada clara y amigable para el usuario. Utiliza una landing con estructura simple, encabezado directo, visual principal con mascota, CTA visible (“See Services”) y tarjetas explicativas de servicios. Los planes están presentados con imágenes reales que aportan confianza, mientras que las preguntas frecuentes usan íconos grandes y textos concretos para resolver dudas comunes.
 
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Home.png)
+![Home](https://github.com/user-attachments/assets/bcc0d3f6-ddec-41c4-a85d-5ace8b89dd61)
 
 En el diseño de la web se evita la sobrecarga de contenido y se prioriza la jerarquía visual a través del uso de espacios amplios, tarjetas modulares y una navegación intuitiva. La estructura está pensada para acompañar al usuario paso a paso, facilitando la comprensión de los planes de suscripción, servicios disponibles y preguntas frecuentes.
 La página de inicio (landing page) cumple una función de presentación general: presenta el valor diferencial de la plataforma, sus beneficios clave, y los distintos planes con imágenes amigables y testimonios visuales. Aunque la funcionalidad completa de MascotaMatch se encuentra en la app, la web sirve como vitrina digital que guía al usuario hacia su descarga y registro.
@@ -886,27 +878,27 @@ Se presentan las siguientes secciones:
 - **Navbar:** Fijo en la parte superior con acceso directo a Home, Services, Plans, FAQ, y botones de Login/Register.
 - **Hero Section:** Mensaje central con un eslogan claro (“Comprehensive care for your pet”), imagen representativa (un perro) y botón de llamada a la acción ("See Services").
 
-![Image](./assets/wf1.jpg)
+![wf1](https://github.com/user-attachments/assets/5e098186-c60a-446b-80b8-eba46ec22206)
 
 - **Our Services:** Cards o bloques visuales que describen los servicios clave (Safe Walks, Veterinary Check-Ups, Grooming, Emergencies) acompañados de íconos ilustrativos y texto breve.
 
-![Image](./assets/wf2.jpg)
+![wf2](https://github.com/user-attachments/assets/727650f8-5572-4dbb-94b5-73d8e3a2c3b9)
 
 - **Plans Section:** Presenta los planes disponibles (VIP Plan, Complete Plan, Mini Plan) en tarjetas visuales con breve descripción de beneficios y botones para "Read more".
 
-![Image](./assets/wf3.jpg)
+![wf3](https://github.com/user-attachments/assets/57beec12-aa77-4076-84b2-fa3c205fe20a)
 
 - **FAQ Section:** Cards individuales que responden a preguntas frecuentes relevantes sobre servicios, suscripciones, cambios de plan y emergencias veterinarias.
 
-![Image](./assets/wf4.jpg)
+![wf4](https://github.com/user-attachments/assets/b4ceffe9-8ad4-4c35-b637-bf127d53ebdb)
 
 - **Contact Support:** Formulario simple para ingresar un correo electrónico y solicitar asistencia directa.
 
-![Image](./assets/wf5.jpg)
+![wf5](https://github.com/user-attachments/assets/3344c599-fc05-43f5-bf33-6929c91b8c0a)
 
 - **Footer:** Información básica de la empresa, zonas de cobertura (Surquillo, San Borja, San Isidro) y enlaces rápidos de ayuda.
 
-![Image](./assets/wf6.jpg)
+![wf6](https://github.com/user-attachments/assets/804d2d10-e641-4eb1-8ec2-447469e56cda)
 
 ## 4.3.2. Landing Page Mock-up
 El mock-up de la landing page de MascotaMatch presenta una interfaz limpia, moderna y funcional, organizada en una estructura vertical con navegación fija superior. Las secciones Home, Services, Plans y FAQs se muestran claramente en el navbar, acompañadas de botones visibles para Login y Register.
@@ -915,11 +907,11 @@ Visualmente se usaron colores frescos (degradado celeste), tipografías legibles
 
 ### Desktop Web Browser
 
-![Image](./assets/1.jpg)
-![Image](./assets/2.jpg)
-![Image](./assets/3.jpg)
-![image](./assets/faq.jpg)
-![Image](./assets/6.jpg)
+![1](https://github.com/user-attachments/assets/043f84c9-8fc2-40e2-9734-76023686267a)
+![2](https://github.com/user-attachments/assets/6c6a5d8d-5ce1-41f3-aec9-f388cfe3e106)
+![3](https://github.com/user-attachments/assets/31568875-279c-4eae-b91a-8d0b6ea2b388)
+![faq](https://github.com/user-attachments/assets/d301c3b5-d440-405d-89c8-16e0e6fe68cc)
+![6](https://github.com/user-attachments/assets/06f2b0cd-e6fd-456d-b037-1adc1644bb8b)
 
 ## 4.4.1 Web Applications Wireframes
 
@@ -1518,13 +1510,13 @@ LINK: https://youtu.be/L9YZMDfhDUc
 
 El diagrama de contexto proporciona una visión general de alto nivel sobre cómo el sistema MascotaMatch interactúa con sus distintos tipos de usuarios y, si corresponde, con sistemas externos relacionados.
 
-![C4_Context](./assets/Context.png)
+![Context](https://github.com/user-attachments/assets/5253ac50-d854-481b-8bf7-abfa47b5fdb4)
 
 ### 4.6.2. Software Architecture Container Diagram
 
 El diagrama de contenedores presenta una vista general de alto nivel sobre cómo interactúan las aplicaciones y las fuentes de datos que intervienen en la operación del sistema MascotaMatch.
 
-![C4_Container](./assets/Container.png)
+![Container](https://github.com/user-attachments/assets/c6fa3d59-ed79-4604-bf00-8d623d48af91)
 
 ### 4.6.3. Software Architecture Component Diagram
 
@@ -1532,35 +1524,35 @@ Los diagramas de componentes ilustran las relaciones entre los principales eleme
 
 En esta sección se detallan los componentes asociados al componente Pet Profile and Health.
   
-![C4_Component_Profile2](./assets/petProfile.png)
+![petProfile](https://github.com/user-attachments/assets/a4c8d06a-6b60-49cd-9567-a8aa20b0370c)
 
 En esta sección se detallan los componentes asociados al componente Provider Management.
   
-![C4_Component_Profile3](./assets/provider.png)
+![provider](https://github.com/user-attachments/assets/e5d70b99-c3ec-4fc9-8f1b-2fd80ec635f8)
 
 En esta sección se detallan los componentes asociados al componente Rewards System.
   
-![C4_Component_Profile4](./assets/rewards.png)
-   
+![rewards](https://github.com/user-attachments/assets/e8076747-4303-4c88-8856-e1fd06ede4ba)
+  
 En esta sección se detallan los componentes asociados al componente Authentication and User.
   
-![C4_Component_Profile4](./assets/auth.png)
-   
+![auth](https://github.com/user-attachments/assets/1c1fe59a-cd17-4805-9ef6-df6c82bcef5f)
+
 En esta sección se detallan los componentes asociados al componente Appointment and Services.
   
-![C4_Component_Profile4](./assets/cita.png)
-   
+![cita](https://github.com/user-attachments/assets/1e16b94a-c677-4a1c-bc52-b14bb65a7747)
+
 En esta sección se detallan los componentes asociados al componente Emergency and Alerts.
   
-![C4_Component_Profile4](./assets/emergency.png)
-   
+![emergency](https://github.com/user-attachments/assets/2d879744-4e74-444f-b9a1-4f0b44872243)
+
 En esta sección se detallan los componentes asociados al componente Geolocation.
   
-![C4_Component_Profile4](./assets/geo.png)
+![geo](https://github.com/user-attachments/assets/77639af6-e644-4857-85ea-cd5ad2b1be8f)
 
 En esta sección se detallan los componentes asociados al componente Subscription Management.
   
-![C4_Component_Profile4](./assets/gestionSuscripcion.png)
+![gestionSuscripcion](https://github.com/user-attachments/assets/1d06e131-8e4e-4c02-bfc3-00e6f974e24e)
 
 ## 4.7. Software Object-Oriented Design.
 
