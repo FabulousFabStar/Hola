@@ -42,7 +42,7 @@ Brew Timer es una aplicación móvil que ayuda a los usuarios a cronometrar y op
         </th>
     </tr>
     <tr>
-        <th rowspan="3" style="text-align:center; border: 1px solid #000;">Perfil</th>
+        <th rowspan="2" style="text-align:center; border: 1px solid #000;">Perfil</th>
         <td style="border: 1px solid #000;"><strong>Overview</strong></td>
         <td style="border: 1px solid #000;">
             Plataforma web e IoT para gestión integral de cafeterías especializadas, con módulos para tueste, cata, calibración y trazabilidad.
@@ -70,21 +70,6 @@ Brew Timer es una aplicación móvil que ayuda a los usuarios a cronometrar y op
         </td>
         <td style="border: 1px solid #000;">
             Contenido accesible y comunidad activa que impulsa la mejora continua en la preparación del café casero y profesional.
-        </td>
-    </tr>
-    <tr>
-        <td style="border: 1px solid #000;"><strong>Clientes</strong></td>
-        <td style="border: 1px solid #000;">
-            Cafeterías especializadas, baristas profesionales y tostadores pequeños.
-        </td>
-        <td style="border: 1px solid #000;">
-            Baristas aficionados y profesionales que buscan perfeccionar la extracción de espresso y café filtrado.
-        </td>
-        <td style="border: 1px solid #000;">
-            Amantes del café casero y baristas en busca de mejorar consistencia.
-        </td>
-        <td style="border: 1px solid #000;">
-            Usuarios caseros, entusiastas del café y baristas en formación.
         </td>
     </tr>
     <tr>
@@ -137,7 +122,7 @@ Brew Timer es una aplicación móvil que ayuda a los usuarios a cronometrar y op
     <tr>
         <td style="border: 1px solid #000;"><strong>Precios & Costos</strong></td>
         <td style="border: 1px solid #000;">
-            Suscripciones escalonadas: Básica ($40/mes), Profesional ($90/mes), Premium ($150/mes).
+            Suscripciones escalonadas: Básica ($5/mes), Premium ($15/mes).
         </td>
         <td style="border: 1px solid #000;">
             App gratuita con opciones premium para funciones avanzadas.
