@@ -1,6 +1,6 @@
 ## 2.1. Competidores
 
-- **Filtru – Brew Timer: Hacer buen café**  
+- **Filtru**  
 Filtru es una aplicación centrada en la temporización y control del proceso de preparación del café, diseñada para baristas y aficionados que buscan mejorar la calidad de su café mediante un temporizador simple y efectivo. Su enfoque está en la experiencia práctica y repetible del café.
 
 - **Coffee.cup.guru**  
